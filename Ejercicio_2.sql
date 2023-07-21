@@ -1,4 +1,4 @@
-
+/* GABINETE DE ABOGADOS*/
 /* Tabla Clientes*/
 CREATE TABLE clientes (
 DNI INT NOT NULL PRIMARY KEY,
